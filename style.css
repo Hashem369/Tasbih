@@ -199,7 +199,7 @@ main .counter {
     background-color: rgb(208, 202, 195);
     display: flex;
     justify-content: right;
-    align-items: center;
+    /*align-items: center;*/
     padding-bottom: 13px;
     padding-right: 5px;
     font-size: 60px;
